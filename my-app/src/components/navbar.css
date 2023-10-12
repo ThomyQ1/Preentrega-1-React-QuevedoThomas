@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=Ubuntu:wght@300&display=swap');
+
+*{
+    font-family: 'Noto Sans', sans-serif;
+    scroll-behavior: smooth;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #595859;
+    color: white;
+    width: 100%;
+    justify-content: space-evenly;
+    height: auto;
+}
